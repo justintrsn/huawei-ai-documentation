@@ -7,7 +7,7 @@
 ![Documentation](https://img.shields.io/badge/documentation-actually%20exists-green)
 ![Hope](https://img.shields.io/badge/hope-abandoned-lightgrey)
 
-### 📚 [Prerequisites](./prerequisites/) | 🧠 [Fundamentals](./fundamentals/) | 🔧 [Enhancements](./enhancements/) | 🤖 [Agents](./agents/) | 🏢 [Huawei](./huawei/) | 🚨 [Emergency](./emergency/)
+### 📚 [Prerequisites](./prerequisites/) | 🧠 [Fundamentals](./fundamentals/) | 🔧 [Enhancements](./enhancements/) | 🤖 [Agents](./agents/) | 🏢 [Huawei](./huawei-mcp-guides/) | 🚨 [Emergency](./emergency/)
 
 </div>
 
@@ -80,14 +80,14 @@ Each section below has its own README with detailed guides. Click any section to
 
 **[➡️ Explore AI Agents](./agents/)**
 
-### 🏢 [**Level 4: Huawei-Specific Suffering**](./huawei/)
+### 🏢 [**Level 4: Huawei-Specific Suffering**](./huawei-mcp-guides/)
 *"Because every cloud provider must be special"*
 - Huawei Cloud quirks
 - Step-by-step deployment guides
 - Authentication nightmares
 - Container mysteries
 
-**[➡️ Navigate Huawei Cloud](./huawei/)**
+**[➡️ Navigate Huawei Cloud](./huawei-mcp-guides/)**
 
 ### 🚨 [**Emergency Resources**](./emergency/)
 *"When everything is on fire"*
@@ -109,14 +109,14 @@ Each section below has its own README with detailed guides. Click any section to
 5. Check **[Emergency](./emergency/)** - Know your escape routes
 
 ### 🔄 If You're Replacing Someone Who Left
-1. Jump to **[Huawei Deployment](./huawei/deployment-guides/)** - The urgent stuff
+1. Jump to **[Huawei Deployment](./huawei-mcp-guides/deployment-guides/)** - The urgent stuff
 2. Read **[AI Agents](./agents/)** - Understand what they built
 3. Study **[Enhancements](./enhancements/)** - See what they tried
 4. Review **[Emergency Contacts](./emergency/contacts.md)** - Find help
 5. Consider **[Career Change](./emergency/career-change.md)** - Valid option
 
 ### 🎯 If You Need to Deploy Right Now
-1. Go directly to **[Deployment Guides](./huawei/deployment-guides/)**
+1. Go directly to **[Deployment Guides](./huawei-mcp-guides/deployment-guides/)**
 2. Follow numbered guides sequentially
 3. Don't skip steps (seriously)
 4. Read theory later (if ever)
@@ -185,10 +185,9 @@ ai-survival-guide/
 │   ├── tool-calling.md
 │   └── building-first-agent.md
 │
-├── huawei/                     # Huawei-specific
+├── huawei-mcp-guides/                     # Huawei-specific
 │   ├── README.md               # Huawei overview
 │   ├── deployment-guides/      # Step-by-step pain
-│   │   ├── README.md           # Deployment index
 │   │   ├── 00-prereq-mcp-in-huawei-cloud.md
 │   │   ├── 01-swr-docker-push.md
 │   │   └── 02-ecs-deployment.md
@@ -247,9 +246,9 @@ git commit -m "Added guide on why vector databases hate happiness"
 - 🚪 [Career Change](./emergency/career-change.md) - Exit strategy
 
 ### Need Specific Help?
-- 🤖 [MCP in Huawei](./huawei/deployment-guides/00-prereq-mcp-in-huawei-cloud.md)
-- 🐳 [Docker Push to SWR](./huawei/deployment-guides/01-swr-docker-push.md)
-- 🖥️ [ECS Deployment](./huawei/deployment-guides/02-ecs-deployment.md)
+- 🤖 [MCP in Huawei](./huawei-mcp-guides/deployment-guides/00-prereq-mcp-in-huawei-cloud.md)
+- 🐳 [Docker Push to SWR](./huawei-mcp-guides/deployment-guides/01-swr-docker-push.md)
+- 🖥️ [ECS Deployment](./huawei-mcp-guides/deployment-guides/02-ecs-deployment.md)
 - 📝 [Prompt Engineering](./enhancements/prompt-engineering.md)
 
 ### External Resources

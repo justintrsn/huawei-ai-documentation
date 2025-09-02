@@ -86,7 +86,7 @@ nslookup api.openai.com
 # "No response from server"
 # It's DNS
 ```
-For ECS specific logs example please check [here](/huawei/deployment-guides/02-ecs-deployment.md) 
+For ECS specific logs example please check [here](/huawei-mcp-guides/deployment-guides/02-ecs-deployment.md) 
 
 ### The Huawei Cloud Special Checks
 

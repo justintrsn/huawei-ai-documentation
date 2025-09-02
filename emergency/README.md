@@ -1,7 +1,7 @@
 # 🚨 Emergency Resources: When Everything Is On Fire
 ## *Your Guide to Understanding AI Disasters (From a Safe Distance)*
 
-[🏠 Home](../) | [🏃‍♂️ Run to Deployment Guides](../huawei/deployment-guides/) | [📞 Call Someone](./contacts.md)
+[🏠 Home](../) | [🏃‍♂️ Run to Deployment Guides](../huawei-mcp-guides/deployment-guides/) | [📞 Call Someone](./contacts.md)
 
 ## 💡 The Emergency Trinity
 
@@ -315,7 +315,7 @@ Remember: These are cautionary tales, not instruction manuals. Learn from others
 **For more context:**
 - [🧠 Fundamentals](../fundamentals/) - Understand why disasters happen
 - [🤖 AI Agents](../agents/) - See disaster potential
-- [🚢 Deployment](../huawei/deployment-guides/) - Where disasters occur
+- [🚢 Deployment](../huawei-mcp-guides/deployment-guides/) - Where disasters occur
 - [🔧 Enhancements](../enhancements/) - How attempts to fix things cause disasters
 
 ---

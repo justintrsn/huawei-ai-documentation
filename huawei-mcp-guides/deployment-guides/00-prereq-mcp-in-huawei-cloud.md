@@ -353,8 +353,8 @@ This guide provides the technical foundation for deploying MCP servers on Huawei
 
 ## 📚 Additional Resources
 
-- [🐳 Docker Image Management with Huawei SWR](/huawei/deployment-guides/01-swr-docker-push.md)
-- [🚀 MCP Server Deployment on ECS](/huawei/deployment-guides/02-ecs-deployment.md)
+- [🐳 Docker Image Management with Huawei SWR](/huawei-mcp-guides/deployment-guides/01-swr-docker-push.md)
+- [🚀 MCP Server Deployment on ECS](/huawei-mcp-guides/deployment-guides/02-ecs-deployment.md)
 - [🌐 Streamlit Web Application](https://huawei-pandas-mcp-client.streamlit.app/)
 
 ---

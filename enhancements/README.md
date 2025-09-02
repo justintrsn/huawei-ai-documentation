@@ -242,7 +242,7 @@ Remember: This knowledge is power - the power to say "I understand why that won'
 
 **Now that you understand enhancement techniques:**
 - [🤖 AI Agents](../agents/) - See how enhanced LLMs still disappoint
-- [🚢 Deployment](../huawei/deployment-guides/) - Watch enhanced models break in production
+- [🚢 Deployment](../huawei-mcp-guides/deployment-guides/) - Watch enhanced models break in production
 - [🚨 Emergency](../emergency/) - For when someone actually tries enhancement
 
 ---

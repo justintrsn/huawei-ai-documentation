@@ -317,7 +317,7 @@ Most importantly, you'll understand why "Can't we just use a chatbot?" is usuall
 
 **Now that you understand agents:**
 - [🔧 Enhancements](../enhancements/) - See how to make agents slightly less bad
-- [🚢 Deployment](../huawei/deployment-guides/) - Watch agents fail in production
+- [🚢 Deployment](../huawei-mcp-guides/deployment-guides/) - Watch agents fail in production
 - [🚨 Emergency](../emergency/) - For when someone actually builds one
 
 ---

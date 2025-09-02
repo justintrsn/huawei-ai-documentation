@@ -19,5 +19,5 @@ Navigate back to [🏠 Home](../)
 ## Quick Links
 
 - Skip to [AI Agents](../agents) if you know the basics
-- Jump to [Deployment](../huawei/deployment-guides) if you need to deploy NOW
+- Jump to [Deployment](../huawei-mcp-guides/deployment-guides) if you need to deploy NOW
 - Run to [Emergency](../emergency) if everything's on fire
