@@ -189,16 +189,16 @@ ai-survival-guide/
 │   ├── README.md               # Huawei overview
 │   ├── deployment-guides/      # Step-by-step pain
 │   │   ├── README.md           # Deployment index
+│   │   ├── 00-prereq-mcp-in-huawei-cloud.md
 │   │   ├── 01-swr-docker-push.md
 │   │   └── 02-ecs-deployment.md
-│   └── mcp-in-huawei-cloud.md
 │
 └── emergency/                  # Crisis management
     ├── README.md               # Emergency overview
     ├── panic.md                # Don't panic (externally)
     ├── contacts.md             # Who to call
     └── career-change.md        # Exit strategies
-```
+```s
 
 ---
 
@@ -247,9 +247,9 @@ git commit -m "Added guide on why vector databases hate happiness"
 - 🚪 [Career Change](./emergency/career-change.md) - Exit strategy
 
 ### Need Specific Help?
+- 🤖 [MCP in Huawei](./huawei/deployment-guides/00-prereq-mcp-in-huawei-cloud.md)
 - 🐳 [Docker Push to SWR](./huawei/deployment-guides/01-swr-docker-push.md)
 - 🖥️ [ECS Deployment](./huawei/deployment-guides/02-ecs-deployment.md)
-- 🤖 [MCP in Huawei](./huawei/mcp-in-huawei-cloud.md)
 - 📝 [Prompt Engineering](./enhancements/prompt-engineering.md)
 
 ### External Resources

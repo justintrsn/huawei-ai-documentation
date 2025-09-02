@@ -10,10 +10,10 @@ These guides are numbered for a reason. Skip steps at your own peril.
 
 | Step | Guide | What You'll Learn | Time to Complete | Pain Level |
 |------|-------|-------------------|------------------|------------|
+| 1 | [MCP in Huawei Cloud](./00-prereq-mcp-in-huawei-cloud.md) | Justification regarding the deployment of MCP Servers in ECS | 2 hours | ⭐⭐⭐⭐⭐ |
 | 1 | [SWR Docker Push](./01-swr-docker-push.md) | How to authenticate with Huawei's registry | 2 hours | ⭐⭐⭐⭐⭐ |
 | 2 | [ECS Deployment](./02-ecs-deployment.md) | Deploy containers that actually run | 3 hours | ⭐⭐⭐⭐ |
 | 3 | [Function Graph](./03-function-graph-deploy.md) 🚧 | Serverless deployment | TBD | ⭐⭐⭐ |
-| 4 | [Production Setup](./04-production-setup.md) 🚧 | Making it not break at 3 AM | 5 hours | ⭐⭐⭐⭐⭐ |
 
 ## Before You Start
 

@@ -423,8 +423,8 @@ Now go forth and deploy! And may the containers be ever in your favor.
 ## Want More Pain?
 
 Check out the detailed guides:
-- [🎭 MCP Server Deployment Guide on ECS](/deployment-guides/01-ecs-deployment.md)
-- [🐳 Pushing Docker Images to Huawei SWR - A Survivor's Guide](/deployment-guides/02-swr-docker-push.md)
+- [🐳 Pushing Docker Images to Huawei SWR - A Survivor's Guide](/huawei/deployment-guides/01-swr-docker-push.md)
+- [🎭 MCP Server Deployment Guide on ECS](/huawei/deployment-guides/02-ecs-deployment.md)
 
 Checkout the website here in streamlit:
 - [Streamlit Web Application](https://huawei-pandas-mcp-client.streamlit.app/)
