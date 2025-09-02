@@ -50,6 +50,10 @@ This guide is my attempt to document everything before the knowledge walks out t
 
 ### 🎯 **Level 2: Making LLMs Slightly Less Stupid**
 *"Enhancement techniques that sometimes work"*
+#### 📝 [Why Do I need enhancements](/enhancements/why-tf.md)
+- Source: Trust me bro
+- LLMs gaslighting you that the current president of Indonesia is Jokowi 
+- What company data you were talking about again?
 
 #### 📝 [Prompt Engineering: Talking to AI Like It's a Confused Toddler](/enhancements/prompt-engineering.md)
 - Basic Prompting: "Please work. Pretty please?"
@@ -179,7 +183,6 @@ git commit -m "Added guide on why vector databases hate happiness"
 
 ### When Everything Is Broken
 - [The Panic Guide: First Steps When Production Dies](/emergency/panic.md)
-- [Rollback Procedures: Admitting Defeat Gracefully](/emergency/rollback.md)
 - [Who to Call: Contact List of People Who Might Help](/emergency/contacts.md)
 - [Career Alternatives: Is Farming Really That Bad?](/emergency/career-change.md)
 
